@@ -1,0 +1,64 @@
+import os
+import random
+
+def efeladat(b):
+    seged=[]
+    for j in range(0,3,1):
+        if(b[0][j]%2!=0 and b[0][j]%5==0):
+            seged.append(b[0][j])
+    if(len(seged)==0):
+        return "Nincs a feltételnek megfelelő bér érték"
+    else:
+        return seged
+            
+
+os.system("cls")
+#1. megoldás(kiindulás: 0 értékekkel feltöltött lista)
+"""berek=[[0]*3 for i in range(0,3,1)]
+print("Minimálbér értékek országonként:")
+for i in range(0,3,1):
+    print(i+1,". ország adatai",sep="",end=" ")
+    for j in range(0,3,1):
+        berek[i][j]=random.randrange(500,1201)
+        print(berek[i][j],end=" ")
+    print("")"""
+#2. megoldás (kiindulás: üres lista)
+ber=[]
+berek=[]
+print("Minimálbér értékek országonként:")
+for i in range(0,3,1):
+    print(i+1,". ország adatai",sep="",end=" ")
+    for j in range(0,3,1):
+        ber.append(random.randrange(500,1201))
+    ber.sort()
+    print(*ber)
+    berek.append(ber)
+    ber=[]
+#táblázatos kiratás
+print("\nOrszágok minimálbér adatai táblázatosan megjelenítve:")
+print("{0:>16}{1:>6}{2:>6}".format(2008,2009,2010))
+for i in range(0,3,1):
+    print(i+1,". ország",sep="",end=" ")
+    print("{0:>6}{1:>6}{2:>6}".format(berek[i][0],berek[i][1],berek[i][2]))
+#c.) feladat
+print("\nc.) feladat")
+if(berek[1][1]>berek[2][2]):
+    egesz=berek[1][1]//berek[2][2]
+    maradek=berek[1][1]%berek[2][2]
+else:
+    egesz=berek[2][2]//berek[1][1]
+    maradek=berek[2][2]%berek[1][1]
+
+print("Osztás egész része:",egesz)
+print("Osztás maradéka:",maradek)
+#d.) feladat
+print("\nd.) feladat")
+osszeg=berek[0][0]+berek[2][1]
+print("Az összeg:",osszeg)
+if(osszeg%2==0):
+    print("Az összeg páros")
+else:
+    print("Az összeg páratlan")
+#e.) feladat (függvény)
+print("\ne.) feladat")
+print(efeladat(berek))
