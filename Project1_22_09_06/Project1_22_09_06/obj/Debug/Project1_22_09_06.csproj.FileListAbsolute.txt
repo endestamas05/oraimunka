@@ -1,0 +1,22 @@
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe.config
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.pdb
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.AssemblyReference.cache
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.exe
+H:\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.pdb
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe.config
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.pdb
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.exe
+C:\Users\Acer\Desktop\Programozás\C#\Iskolai munkák(Asztali alkalmazás fejlesztés)\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.pdb
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe.config
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.exe
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\bin\Debug\Project1_22_09_06.pdb
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.AssemblyReference.cache
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.SuggestedBindingRedirects.cache
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.csproj.CoreCompileInputs.cache
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.exe
+F:\Iskola\Asztali alkalmazás fejlesztés\Project1_22_09_06\Project1_22_09_06\obj\Debug\Project1_22_09_06.pdb
