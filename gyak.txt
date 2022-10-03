@@ -1,0 +1,125 @@
+Random deklarálása:
+Random random_neve = new Random();
+Ranom genrálása:
+int szam = random_neve.Next(kezdőérték,végérték+1);
+
+Tömb generálása:
+adattípus[] tömb_neve = New adattípús[maximális_elemmszám];
+Értékadás:
+tömb_neve[index]=érték;
+Érték kiírása/használata:
+tömb_neve[index]
+Tömb hosszának mghatározása:
+tömb_neve.Length-A
+
+Lista deklarálása:
+List<adattípus> lista_neve = new.List<adattípus>();
+Értékadaás:
+lista_neve.Add(érték);
+Érték kiírása/hsaználata:
+lista_neve[index]
+Lista adatbázis elemszáma:
+lista_neve.Count;
+
+Elemi feltételek:
+Összegzés:
+int osszeg;
+for(i==0;i<tömb/lista_végig;i++)
+{
+	if(feltétel)
+	{
+		osszeg+=tömb/lista[i];
+	}
+}
+Consol.Write(oszeg);
+
+Megszámlálás:
+int db;
+for(i==0;i<lista/tömb_végig;i++)
+{
+	if(feltétel)
+	{
+		db+=1;
+	}
+}
+
+Eldöntés:
+int j=0;
+while(j <ömb/lista_végig && !feltétel)
+{
+	j++;
+}
+if(j<tömb/lista_végig)
+{
+	console.WriteLine("Benne van a listában!");
+}
+else
+{
+	console.WriteLine("Nincs benne a listában!");
+}
+Lináris kresés:
+if(j<tömb/lista_végig)
+{
+	console.WriteLine($"Benne van az elem. Index: {j}");
+}
+else
+{
+	console.WriteLine("Nincs benne a listában!");
+}
+
+Kiválasztás:
+int j=0;
+Console.WriteLne($"Elem idexe: {j}");
+
+Minimum érték:
+int min_e=lista/tömb_neve[0];
+for(int i==1; i<tömb/lista_végig;i++)
+{
+	if(min_e<tömb/lista_neve[i])
+	{
+		min_e=tömb/lista_neve[i];
+	}
+}
+
+Maximáli érték:
+int max_e=lista/tömb_neve;
+for(int i==1;i<lista/tömb_végig;i++)
+{
+	if(max_e>lista/tömb_neve[i])
+	{
+		max_e=lista/tömb_neve[i];
+	}
+}
+
+Minimum hely kiválasztása:
+int min_h=0;
+for(int i==0;i<lista/tömb_végig;i++)
+{
+	if(tömb/lista[min_h]>tömb/lista[i])
+	{
+		min_h=i;		
+	}
+}
+
+Maximum hely kiválasztása:
+int max_h;
+for(int i==0;i<lista/tömb_végigi;i++)
+{
+	if(tömb/lista[max_h]<tömb/lista[i])
+	{
+		max_h=i;
+	}
+}
+
+Eljárás:
+public static void eljárás_neve(paraméterlista)
+{
+	eljárás_törzs
+}
+
+Függvény:
+public static adattípus függvény_neve(paraméterlista)
+{
+	függvény_törzs;
+	return visszatérési_érték;
+}
