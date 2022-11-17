@@ -1,4 +1,4 @@
-/*
+
 //1. Feladat
 let tomb1=[]
 for (let i=0;i<10;i++)
@@ -202,7 +202,7 @@ for (let i=tomb18.length-1;i>=0;i--)
 {
     console.log(tomb18[i])
 }
-*/
+
 //22. Feladat
 let tomb22=[]
 for (let i=0;i<10;i++)
