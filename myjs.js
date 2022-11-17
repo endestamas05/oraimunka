@@ -1,4 +1,3 @@
-/*
 //1. Feladat
 let tomb1=[]
 for(let i=0; i < 10; i++)
@@ -782,7 +781,7 @@ else
 {
     console.log("Nincs egymás mellett két egyforma szám!")
 }
-*/
+
 //22. fELADAT
 let tomb22=[]
 for(let i=0;i<10;i++)
