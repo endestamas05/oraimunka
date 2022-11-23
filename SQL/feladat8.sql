@@ -151,7 +151,7 @@ DEFAULT CHARACTER SET utf8
 COLLATE utf8_hungarian_ci;
 
 CREATE TABLE SzemAdat(
-    Nev VARCHAR(30) PRIMARY KEY,
+    Nev VARCHAR(30) NOT NULL PRIMARY KEY,
     Szuletesi_ev INT(4),
     Iranyitoszam INT(4),
     Lakhey VARCHAR(30) DEFAULT("Budapest"),
