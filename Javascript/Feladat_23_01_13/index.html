@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>FORM</title>
+    </head>
+    <body>
+        <!--
+        <form name="szamkitalalo">
+            <p id="korszam">Kör: 1/10</p>
+            <label for="">Szám: </label>
+            <input type="text" id="number">
+            <input type="button" value="Tipp" onclick="guess()">
+        </form>
+        -->
+
+        <form name="szamok">
+            <p id="numbers">Számok: </p>
+            <!-- A numbers azonosítóval rendelkező bekezdésben lesz kiírva a tömb tartalma -->
+            <label for="numberAdd">Érték: </label>
+            <input type="text" id="numberAdd">
+            <!-- A textbox-ba írt értékekkel  feltöltve a tömb -->
+            <input type="button" value="Hozzáadás" onclick="add()">
+            <!-- A legjobb elemi tételek -->
+            <p id="elem1">Összeg: </p>
+            <p id="elem2">Páros darab: </p>
+            <p id="elem3">Van-e páratlan: </p>
+            <p id="elem4">Legkissebb érték: </p>
+            <p id="elem5">Legnagyobb hely: </p>
+            <!-- Amikor a tömb frissül, abba az esetben frissítjük az elemi tételek segítségével a bekezdésekben meghatározott értékeket. -->
+        </form>
+        <script src="myjs.js" type="text/javascript"></script>
+    </body>
+</html>
