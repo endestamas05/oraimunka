@@ -1,0 +1,281 @@
+@media (min-width: 2300px) {
+    .tabbutton {
+        width: 60px;
+        height: 60px;
+        font-size: 1.8rem;
+        border: 3px solid brown;
+    }
+    table {
+        height: 600px;
+        width: 600px;
+        border: 8px solid brown;
+    }
+    .adatok {
+        font-size: 1.8rem;
+    }
+    nav {
+        background-size: 70px;
+        height: 125px;
+    }
+    h1 {
+        font-size: 3rem;
+    }
+    #otos {
+        height: 70px;
+    }
+    footer {
+        height: 150px;
+    }
+    .foot {
+        font-size: 1.6rem;
+    }
+    #megjatszas {
+        font-size: 2rem;
+        border: 4px solid brown;
+    }
+}
+
+@media (min-width: 2840px) {
+    .tabbutton {
+        width: 70px;
+        height: 70px;
+        font-size: 3rem;
+    }
+    table {
+        height: 700px;
+        width: 700px;
+    }
+    .adatok {
+        font-size: 3rem;
+    }
+    nav {
+        background-size: 80px;
+        height: 142px;
+    }
+    h1 {
+        font-size: 3.5rem;
+    }
+    #otos {
+        height: 90px;
+    }
+    footer {
+        height: 180px;
+    }
+    .foot {
+        font-size: 2rem;
+    }
+    #megjatszas {
+        font-size: 2.5rem;
+        border: 6px solid brown;
+    }
+}
+
+@media (min-width: 3500px) {
+    .tabbutton {
+        width: 90px;
+        height: 90px;
+        font-size: 3rem;
+        border: 4px solid brown;
+    }
+    table {
+        height: 900px;
+        width: 900px;
+        border: 10px solid brown;
+    }
+    .adatok {
+        font-size: 3rem;
+    }
+    nav {
+        background-size: 90px;
+        height: 160px;
+    }
+    h1 {
+        font-size: 4rem;
+    }
+    #otos {
+        height: 100px;
+    }
+    footer {
+        height: 200px;
+    }
+    .foot {
+        font-size: 2.3rem;
+    }
+    #megjatszas {
+        font-size: 3rem;
+        border: 8px solid brown;
+    }
+}
+
+@media (min-width: 4700px) {
+    .tabbutton {
+        width: 120px;
+        height: 120px;
+        font-size: 5rem;
+        border: 5px solid brown;
+    }
+    table {
+        height: 1200px;
+        width: 1200px;
+        border: 13px solid brown;
+    }
+    .adatok {
+        font-size: 5rem;
+    }
+    nav {
+        background-size: 100px;
+        height: 260px;
+    }
+    h1 {
+        font-size: 6rem;
+    }
+    #otos {
+        height: 150px;
+    }
+    footer {
+        height: 220px;
+    }
+    .foot {
+        font-size: 3rem;
+    }
+    #megjatszas {
+        font-size: 4rem;
+        border: 10px solid brown;
+    }
+}
+
+@media (max-width: 1050px) {
+    .tabbutton {
+        width: 50px;
+        height: 50px;
+        font-size: 1.5rem;
+    }
+    table {
+        height: 500px;
+        width: 500px;
+    }
+    .adatok {
+        font-size: 1.5rem;
+    }
+    .penz {
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 630px) {
+    .tabbutton {
+        width: 40px;
+        height: 40px;
+    }
+    table {
+        height: 400px;
+        width: 400px;
+    }
+    .adatok {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 550px) {
+    .tabbutton {
+        width: 38px;
+        height: 38px;
+    }
+}
+
+@media (max-width: 490px) {
+    .tabbutton {
+        width: 35px;
+        height: 35px;
+        font-size: 0.9rem
+    }
+    table {
+        height: 350px;
+        width: 350px;
+    }
+}
+
+@media (max-width: 450px) {
+    .tabbutton {
+        width: 31px;
+        height: 31px;
+    }
+    table {
+        height: 310px;
+        width: 310px;
+    }
+    h1 {
+        font-size: 1.9rem;
+    }
+}
+
+@media (max-width: 420px) {
+    .tabbutton {
+        width: 28px;
+        height: 28px;
+    }
+    table {
+        height: 280px;
+        width: 280px;
+    }
+    h1 {
+        font-size: 1.9rem;
+    }
+}
+
+@media (max-width: 395px) {
+    .tabbutton {
+        width: 25px;
+        height: 25px;
+        font-size: small;
+    }
+    table {
+        height: 250px;
+        width: 250px;
+    }
+    #megjatszas {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 350px) {
+    .tabbutton {
+        width: 23px;
+        height: 23px;
+        font-size: small;
+    }
+    table {
+        height: 230px;
+        width: 230px;
+    }
+}
+
+@media (max-width: 340px) {
+    .tabbutton {
+        width: 22px;
+        height: 22px;
+        font-size: small;
+    }
+    table {
+        height: 220px;
+        width: 220px;
+    }
+    #megjatszas {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 314px) {
+    .tabbutton {
+        width: 20px;
+        height: 20px;
+        font-size: x-small;
+    }
+    table {
+        height: 200px;
+        width: 200px;
+    }
+    #megjatszas {
+        font-size: 0.8rem;
+    }
+}
